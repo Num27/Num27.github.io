@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: 二十七号
+subtitle: Num27
+description: 运营 ▏ 前端 ▏ 心理学 ▏ 网球
 keywords:
 author: John Doe
-language: en
+language: zh-Hans
 timezone:
 
 # URL

@@ -8,7 +8,7 @@ subtitle: 爱生活、爱运动
 description: 运营 ▏ 前端 ▏ 心理学 ▏ 网球
 keywords:
 author: Num27
-language: zh-Hans
+language: zh-CN
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: three
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

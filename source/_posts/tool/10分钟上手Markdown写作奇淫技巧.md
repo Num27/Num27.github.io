@@ -1,9 +1,11 @@
 ---
 title: 10分钟上手Markdown写作奇淫技巧
-date: 2019-08-20 15:00:31
+date: {{ date }}
+top: 
 categories:
-- 前端
-- 实用工具
+- 工具
+- 破解软件
+tags:
+- 
 ---
 
-呵呵呵呵
